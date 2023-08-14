@@ -259,7 +259,7 @@ VideoPlayer:
   m_AudioOutputMode: 2
   m_TargetAudioSources: []
   m_DirectAudioVolumes: []
-  m_Url: file://C:/KID/Projects/Unity/Unity_Demo_WEBGL_Videos_20230814/Assets/Video.mp4
+  m_Url: https://github.com/KID421/Unity_Demo_WEBGL_Videos_20230814/blob/main/Assets/Video.mp4
   m_EnabledAudioTracks: 
   m_DirectAudioMutes: 
   m_ControlledAudioTrackCount: 0
